@@ -24,22 +24,23 @@ def generate_library(num_total, num_lands):
     random.shuffle(library)
     return library
 
-def has_land(cards):
+def has_nonland(cards):
     for card in cards:
-        if card.type == CardType.LAND:
+        if card.type is not CardType.LAND:
             return True
     return False
 
 def ceph_trigger(library, trigger_count):
-    print("Milled a land! Mothman triggers, targeting Cephalid. Trigger count: %d" % trigger_count)
+    print("Milled a non-land! Mothman triggers, targeting Cephalid. Trigger count: %d" % trigger_count)
     top_three = []
     if len(library) < 3:
         top_three, library = library, []
     else:
         top_three, library = library[:3], library[3:]
-    if has_land(top_three):
+    if has_nonland(top_three):
         return ceph_trigger(library, trigger_count + 1)
     else:
+        print("We hit three lands. The run stops here. Trigger count: %d" % trigger_count)
         return library, trigger_count
 
 def ceph_trigger_run():
