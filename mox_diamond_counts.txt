@@ -1,0 +1,100 @@
+--Land count: 15
+Online: 2327
+Offline: 7673
+Topdeck the second land: 615
+--Land count: 16
+Online: 2556
+Offline: 7444
+Topdeck the second land: 768
+--Land count: 17
+Online: 2957
+Offline: 7043
+Topdeck the second land: 760
+--Land count: 18
+Online: 3096
+Offline: 6904
+Topdeck the second land: 804
+--Land count: 19
+Online: 3355
+Offline: 6645
+Topdeck the second land: 809
+--Land count: 20
+Online: 3617
+Offline: 6383
+Topdeck the second land: 800
+--Land count: 21
+Online: 3911
+Offline: 6089
+Topdeck the second land: 844
+--Land count: 22
+Online: 4241
+Offline: 5759
+Topdeck the second land: 950
+--Land count: 23
+Online: 4518
+Offline: 5482
+Topdeck the second land: 911
+--Land count: 24
+Online: 4653
+Offline: 5347
+Topdeck the second land: 915
+--Land count: 25
+Online: 4945
+Offline: 5055
+Topdeck the second land: 932
+--Land count: 26
+Online: 5299
+Offline: 4701
+Topdeck the second land: 911
+--Land count: 27
+Online: 5368
+Offline: 4632
+Topdeck the second land: 972
+--Land count: 28
+Online: 5621
+Offline: 4379
+Topdeck the second land: 962
+--Land count: 29
+Online: 5901
+Offline: 4099
+Topdeck the second land: 999
+--Land count: 30
+Online: 6174
+Offline: 3826
+Topdeck the second land: 987
+--Land count: 31
+Online: 6298
+Offline: 3702
+Topdeck the second land: 924
+--Land count: 32
+Online: 6546
+Offline: 3454
+Topdeck the second land: 904
+--Land count: 33
+Online: 6682
+Offline: 3318
+Topdeck the second land: 911
+--Land count: 34
+Online: 6940
+Offline: 3060
+Topdeck the second land: 926
+--Land count: 35
+Online: 7084
+Offline: 2916
+Topdeck the second land: 873
+--Land count: 36
+Online: 7377
+Offline: 2623
+Topdeck the second land: 798
+--Land count: 37
+Online: 7476
+Offline: 2524
+Topdeck the second land: 867
+--Land count: 38
+Online: 7632
+Offline: 2368
+Topdeck the second land: 811
+--Land count: 39
+Online: 7847
+Offline: 2153
+Topdeck the second land: 736
